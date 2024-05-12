@@ -1,0 +1,6 @@
+Procesamiento del lado del servidor - tiene modalidades codigo abierto y codigo propietario 
+Procesamiento del lado del servidor - podemos crear paginas dinamicas
+Procesamiento del lado del servidor - es util cuando tenemos conecciones a la BD
+
+Script - requiere etiquetas delimitadoras de codigo 
+Script - contiene codigo de php, html, css, javascript
